@@ -1,0 +1,5 @@
+product_name,price,rating,url,scraped_at
+sample product 1,50.24837774779001,4.565740806880857,https://www.amazon.com/product1,2026-03-10T09:22:06.559944
+sample product 2,99.98189668047704,1.025775568662445,https://www.amazon.com/product2,2026-03-10T09:22:06.559969
+flipkart product 1,37.71651875456132,1.06258355287035,https://www.flipkart.com/product1,2026-03-10T09:22:06.560057
+flipkart product 2,40.26598036056627,3.8085980637267203,https://www.flipkart.com/product2,2026-03-10T09:22:06.560065

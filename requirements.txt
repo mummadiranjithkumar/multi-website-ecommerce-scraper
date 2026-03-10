@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+pandas
+sqlalchemy
+python-dotenv
+aiohttp
+tenacity
+redis
+elasticsearch
+fake-useragent
