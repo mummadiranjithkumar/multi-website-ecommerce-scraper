@@ -1,0 +1,195 @@
+2026-03-10 14:04:07,546 - INFO - Scraping started
+2026-03-10 14:04:07,546 - INFO - Scraped 4 products
+2026-03-10 14:04:07,559 - INFO - Data saved to database
+2026-03-10 14:04:07,561 - INFO - Data exported to CSV
+2026-03-10 14:10:40,868 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 14:21:14,351 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 14:21:40,787 - ecommerce_scraper - WARNING - Redis unavailable, caching disabled: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2026-03-10 14:22:01,376 - ecommerce_scraper - WARNING - Redis unavailable, caching disabled: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2026-03-10 14:22:01,483 - ecommerce_scraper - INFO - Scraped 4 products
+2026-03-10 14:22:01,498 - ecommerce_scraper - INFO - Data saved to database
+2026-03-10 14:22:17,831 - ecommerce_scraper - ERROR - Error indexing to Elasticsearch: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(HTTPConnection(host='localhost', port=9200): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it))
+2026-03-10 14:22:17,838 - ecommerce_scraper - INFO - Data exported to CSV
+2026-03-10 14:23:12,838 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 14:23:32,708 - ecommerce_scraper - WARNING - Redis unavailable, caching disabled: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2026-03-10 14:23:54,402 - ecommerce_scraper - WARNING - Redis unavailable, caching disabled: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2026-03-10 14:23:54,511 - ecommerce_scraper - INFO - Scraped 4 products
+2026-03-10 14:23:54,557 - ecommerce_scraper - INFO - Data saved to database
+2026-03-10 14:24:10,797 - ecommerce_scraper - ERROR - Error indexing to Elasticsearch: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(HTTPConnection(host='localhost', port=9200): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it))
+2026-03-10 14:24:10,806 - ecommerce_scraper - INFO - Data exported to CSV
+2026-03-10 14:29:27,435 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 14:29:51,915 - ecommerce_scraper - WARNING - Redis connection failed, caching disabled: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2026-03-10 14:30:19,534 - ecommerce_scraper - WARNING - Redis connection failed, caching disabled: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2026-03-10 14:30:19,643 - ecommerce_scraper - INFO - Scraped 4 products
+2026-03-10 14:30:19,685 - ecommerce_scraper - INFO - Data saved to database
+2026-03-10 14:30:36,008 - ecommerce_scraper - ERROR - Error indexing to Elasticsearch: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(HTTPConnection(host='localhost', port=9200): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it))
+2026-03-10 14:30:36,023 - ecommerce_scraper - INFO - Data exported to CSV
+2026-03-10 14:31:05,510 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 14:31:05,690 - ecommerce_scraper - INFO - Scraped 4 products
+2026-03-10 14:31:05,714 - ecommerce_scraper - INFO - Data saved to database
+2026-03-10 14:31:22,057 - ecommerce_scraper - ERROR - Error indexing to Elasticsearch: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(HTTPConnection(host='localhost', port=9200): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it))
+2026-03-10 14:31:22,072 - ecommerce_scraper - INFO - Data exported to CSV
+2026-03-10 14:40:46,979 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 14:40:47,144 - ecommerce_scraper - INFO - Scraped 4 products
+2026-03-10 14:40:47,159 - ecommerce_scraper - INFO - Data saved to database
+2026-03-10 14:41:03,449 - ecommerce_scraper - ERROR - Error indexing to Elasticsearch: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(HTTPConnection(host='localhost', port=9200): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it))
+2026-03-10 14:41:03,463 - ecommerce_scraper - INFO - Data exported to CSV
+2026-03-10 14:52:06,359 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 14:52:06,560 - ecommerce_scraper - INFO - Scraped 4 products
+2026-03-10 14:52:06,581 - ecommerce_scraper - INFO - Data saved to database
+2026-03-10 14:52:06,582 - ecommerce_scraper - INFO - Elasticsearch disabled; skipping indexing
+2026-03-10 14:52:06,585 - ecommerce_scraper - INFO - Data exported to CSV
+2026-03-10 15:07:50,084 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 15:10:20,065 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 15:16:18,327 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 15:16:20,216 - ecommerce_scraper - WARNING - Failed to parse price '£51.77' for product A Light in the Attic
+2026-03-10 15:16:20,236 - ecommerce_scraper - WARNING - Failed to parse price '£53.74' for product Tipping the Velvet
+2026-03-10 15:16:20,251 - ecommerce_scraper - WARNING - Failed to parse price '£50.10' for product Soumission
+2026-03-10 15:16:20,263 - ecommerce_scraper - WARNING - Failed to parse price '£47.82' for product Sharp Objects
+2026-03-10 15:16:20,263 - ecommerce_scraper - WARNING - Failed to parse price '£57.31' for product Slow States of Collapse: Poems
+2026-03-10 15:16:20,265 - ecommerce_scraper - WARNING - Failed to parse price '£26.41' for product Reasons to Stay Alive
+2026-03-10 15:16:20,265 - ecommerce_scraper - WARNING - Failed to parse price '£47.61' for product Private Paris (Private #10)
+2026-03-10 15:16:20,264 - ecommerce_scraper - WARNING - Failed to parse price '£54.23' for product Sapiens: A Brief History of Humankind
+2026-03-10 15:16:20,266 - ecommerce_scraper - WARNING - Failed to parse price '£22.65' for product The Requiem Red
+2026-03-10 15:16:20,267 - ecommerce_scraper - WARNING - Failed to parse price '£33.34' for product The Dirty Little Secrets of Getting Your Dream Job
+2026-03-10 15:16:20,266 - ecommerce_scraper - WARNING - Failed to parse price '£23.11' for product #HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.
+2026-03-10 15:16:20,268 - ecommerce_scraper - WARNING - Failed to parse price '£45.07' for product Without Borders (Wanderlove #1)
+2026-03-10 15:16:20,267 - ecommerce_scraper - WARNING - Failed to parse price '£17.93' for product The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+2026-03-10 15:16:20,269 - ecommerce_scraper - WARNING - Failed to parse price '£22.60' for product The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+2026-03-10 15:16:20,270 - ecommerce_scraper - WARNING - Failed to parse price '£52.15' for product The Black Maria
+2026-03-10 15:16:20,269 - ecommerce_scraper - WARNING - Failed to parse price '£31.77' for product When We Collided
+2026-03-10 15:16:20,271 - ecommerce_scraper - WARNING - Failed to parse price '£50.27' for product We Love You, Charlie Freeman
+2026-03-10 15:16:20,270 - ecommerce_scraper - WARNING - Failed to parse price '£13.99' for product Starving Hearts (Triangular Trade Trilogy, #1)
+2026-03-10 15:16:20,272 - ecommerce_scraper - WARNING - Failed to parse price '£14.27' for product Untitled Collection: Sabbath Poems 2014
+2026-03-10 15:16:20,273 - ecommerce_scraper - WARNING - Failed to parse price '£20.66' for product Shakespeare's Sonnets
+2026-03-10 15:16:20,274 - ecommerce_scraper - WARNING - Failed to parse price '£17.46' for product Set Me Free
+2026-03-10 15:16:20,274 - ecommerce_scraper - WARNING - Failed to parse price '£44.18' for product Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness
+2026-03-10 15:16:20,275 - ecommerce_scraper - WARNING - Failed to parse price '£52.29' for product Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+2026-03-10 15:16:20,276 - ecommerce_scraper - WARNING - Failed to parse price '£18.78' for product Unicorn Tracks
+2026-03-10 15:16:20,276 - ecommerce_scraper - WARNING - Failed to parse price '£35.02' for product Rip it Up and Start Again
+2026-03-10 15:16:20,277 - ecommerce_scraper - WARNING - Failed to parse price '£25.52' for product Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink
+2026-03-10 15:16:20,278 - ecommerce_scraper - WARNING - Failed to parse price '£16.28' for product Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)
+2026-03-10 15:16:20,277 - ecommerce_scraper - WARNING - Failed to parse price '£57.25' for product Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+2026-03-10 15:16:20,279 - ecommerce_scraper - WARNING - Failed to parse price '£23.88' for product Olio
+2026-03-10 15:16:20,278 - ecommerce_scraper - WARNING - Failed to parse price '£31.12' for product Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity
+2026-03-10 15:16:20,279 - ecommerce_scraper - WARNING - Failed to parse price '£37.59' for product Mesaerion: The Best Science Fiction Stories 1800-1849
+2026-03-10 15:16:20,280 - ecommerce_scraper - WARNING - Failed to parse price '£19.49' for product This One Summer
+2026-03-10 15:16:20,281 - ecommerce_scraper - WARNING - Failed to parse price '£51.33' for product Libertarianism for Beginners
+2026-03-10 15:16:20,282 - ecommerce_scraper - WARNING - Failed to parse price '£45.17' for product It's Only the Himalayas
+2026-03-10 15:16:20,282 - ecommerce_scraper - WARNING - Failed to parse price '£17.27' for product Thirst
+2026-03-10 15:16:20,289 - ecommerce_scraper - WARNING - Failed to parse price '£19.09' for product The Torch Is Passed: A Harding Family Story
+2026-03-10 15:16:20,291 - ecommerce_scraper - WARNING - Failed to parse price '£56.13' for product The Secret of Dreadwillow Carse
+2026-03-10 15:16:20,292 - ecommerce_scraper - WARNING - Failed to parse price '£56.41' for product The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!
+2026-03-10 15:16:20,292 - ecommerce_scraper - WARNING - Failed to parse price '£56.50' for product The Past Never Ends
+2026-03-10 15:16:20,293 - ecommerce_scraper - WARNING - Failed to parse price '£45.22' for product The Natural History of Us (The Fine Art of Pretending #2)
+2026-03-10 15:16:22,416 - ecommerce_scraper - WARNING - Failed to parse price '£12.84' for product In Her Wake
+2026-03-10 15:16:22,419 - ecommerce_scraper - WARNING - Failed to parse price '£37.32' for product How Music Works
+2026-03-10 15:16:22,420 - ecommerce_scraper - WARNING - Failed to parse price '£30.52' for product Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More
+2026-03-10 15:16:22,420 - ecommerce_scraper - WARNING - Failed to parse price '£25.27' for product Chase Me (Paris Nights #2)
+2026-03-10 15:16:22,421 - ecommerce_scraper - WARNING - Failed to parse price '£34.53' for product Black Dust
+2026-03-10 15:16:22,427 - ecommerce_scraper - WARNING - Failed to parse price '£54.64' for product Birdsong: A Story in Pictures
+2026-03-10 15:16:22,428 - ecommerce_scraper - WARNING - Failed to parse price '£22.50' for product America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana
+2026-03-10 15:16:22,429 - ecommerce_scraper - WARNING - Failed to parse price '£53.13' for product Aladdin and His Wonderful Lamp
+2026-03-10 15:16:22,474 - ecommerce_scraper - WARNING - Failed to parse price '£38.16' for product The Nameless City (The Nameless City #1)
+2026-03-10 15:16:22,606 - ecommerce_scraper - WARNING - Failed to parse price '£44.18' for product Wall and Piece
+2026-03-10 15:16:22,607 - ecommerce_scraper - WARNING - Failed to parse price '£54.11' for product The Murder That Never Was (Forensic Instincts #5)
+2026-03-10 15:16:22,609 - ecommerce_scraper - WARNING - Failed to parse price '£17.66' for product The Four Agreements: A Practical Guide to Personal Freedom
+2026-03-10 15:16:22,611 - ecommerce_scraper - WARNING - Failed to parse price '£31.05' for product The Five Love Languages: How to Express Heartfelt Commitment to Your Mate
+2026-03-10 15:16:22,609 - ecommerce_scraper - WARNING - Failed to parse price '£42.96' for product The Most Perfect Thing: Inside (and Outside) a Bird's Egg
+2026-03-10 15:16:22,614 - ecommerce_scraper - WARNING - Failed to parse price '£23.82' for product The Elephant Tree
+2026-03-10 15:16:22,617 - ecommerce_scraper - WARNING - Failed to parse price '£23.89' for product The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy
+2026-03-10 15:16:22,619 - ecommerce_scraper - WARNING - Failed to parse price '£36.89' for product The Bear and the Piano
+2026-03-10 15:16:22,620 - ecommerce_scraper - WARNING - Failed to parse price '£16.77' for product The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
+2026-03-10 15:16:22,621 - ecommerce_scraper - WARNING - Failed to parse price '£15.94' for product Sophie's World
+2026-03-10 15:16:22,622 - ecommerce_scraper - WARNING - Failed to parse price '£20.59' for product The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer
+2026-03-10 15:16:22,624 - ecommerce_scraper - WARNING - Failed to parse price '£33.29' for product Penny Maybe
+2026-03-10 15:16:22,625 - ecommerce_scraper - WARNING - Failed to parse price '£37.13' for product The Gutsy Girl: Escapades for Your Life of Epic Adventure
+2026-03-10 15:16:22,628 - ecommerce_scraper - WARNING - Failed to parse price '£18.02' for product Maude (1883-1993):She Grew Up with the country
+2026-03-10 15:16:22,629 - ecommerce_scraper - WARNING - Failed to parse price '£56.06' for product The Electric Pencil: Drawings from Inside State Hospital No. 3
+2026-03-10 15:16:22,630 - ecommerce_scraper - WARNING - Failed to parse price '£19.63' for product In a Dark, Dark Wood
+2026-03-10 15:16:22,631 - ecommerce_scraper - WARNING - Failed to parse price '£58.11' for product The Death of Humanity: and the Case for Life
+2026-03-10 15:16:22,631 - ecommerce_scraper - WARNING - Failed to parse price '£52.22' for product Behind Closed Doors
+2026-03-10 15:16:22,633 - ecommerce_scraper - WARNING - Failed to parse price '£33.63' for product You can't bury them all: Poems
+2026-03-10 15:16:22,632 - ecommerce_scraper - WARNING - Failed to parse price '£49.05' for product The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life
+2026-03-10 15:16:22,635 - ecommerce_scraper - WARNING - Failed to parse price '£40.76' for product The Art Forger
+2026-03-10 15:16:22,638 - ecommerce_scraper - WARNING - Failed to parse price '£19.73' for product The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind
+2026-03-10 15:16:22,638 - ecommerce_scraper - WARNING - Failed to parse price '£32.24' for product The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution
+2026-03-10 15:16:22,640 - ecommerce_scraper - WARNING - Failed to parse price '£41.83' for product Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up
+2026-03-10 15:16:22,641 - ecommerce_scraper - WARNING - Failed to parse price '£39.58' for product Soul Reader
+2026-03-10 15:16:22,642 - ecommerce_scraper - WARNING - Failed to parse price '£39.25' for product Security
+2026-03-10 15:16:22,643 - ecommerce_scraper - WARNING - Failed to parse price '£25.02' for product Saga, Volume 6 (Saga (Collected Editions) #6)
+2026-03-10 15:16:22,644 - ecommerce_scraper - WARNING - Failed to parse price '£51.04' for product Saga, Volume 5 (Saga (Collected Editions) #5)
+2026-03-10 15:16:22,645 - ecommerce_scraper - WARNING - Failed to parse price '£19.83' for product Reskilling America: Learning to Labor in the Twenty-First Century
+2026-03-10 15:16:22,646 - ecommerce_scraper - WARNING - Failed to parse price '£50.40' for product Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)
+2026-03-10 15:16:22,650 - ecommerce_scraper - INFO - Scraped 80 products
+2026-03-10 15:16:22,697 - ecommerce_scraper - INFO - Data saved to database
+2026-03-10 15:16:22,698 - ecommerce_scraper - INFO - Elasticsearch disabled; skipping indexing
+2026-03-10 15:19:26,814 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 15:19:31,049 - ecommerce_scraper - INFO - Scraped 80 products
+2026-03-10 15:19:31,118 - ecommerce_scraper - INFO - Data saved to database
+2026-03-10 15:19:31,119 - ecommerce_scraper - INFO - Elasticsearch disabled; skipping indexing
+2026-03-10 15:20:14,103 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 15:20:18,138 - ecommerce_scraper - INFO - Scraped 80 products
+2026-03-10 15:20:18,170 - ecommerce_scraper - INFO - Data saved to database
+2026-03-10 15:20:18,171 - ecommerce_scraper - INFO - Elasticsearch disabled; skipping indexing
+2026-03-10 15:24:31,463 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 15:24:35,182 - ecommerce_scraper - INFO - Scraped 80 products
+2026-03-10 15:24:35,213 - ecommerce_scraper - INFO - Data saved to database
+2026-03-10 15:24:35,213 - ecommerce_scraper - INFO - Elasticsearch disabled; skipping indexing
+2026-03-10 15:24:35,217 - ecommerce_scraper - ERROR - Failed to export to CSV: [Errno 13] Permission denied: 'data/products.csv'
+2026-03-10 15:26:27,749 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 15:26:31,738 - ecommerce_scraper - INFO - Scraped 80 products
+2026-03-10 15:26:31,764 - ecommerce_scraper - INFO - Data saved to database
+2026-03-10 15:26:31,764 - ecommerce_scraper - INFO - Elasticsearch disabled; skipping indexing
+2026-03-10 15:26:31,767 - ecommerce_scraper - ERROR - Failed to export to CSV: [Errno 13] Permission denied: 'data/products.csv'
+2026-03-10 15:28:33,217 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 15:28:37,288 - ecommerce_scraper - INFO - Scraped 80 products
+2026-03-10 15:28:37,333 - ecommerce_scraper - INFO - Data saved to database
+2026-03-10 15:28:37,335 - ecommerce_scraper - INFO - Elasticsearch disabled; skipping indexing
+2026-03-10 15:28:37,344 - ecommerce_scraper - ERROR - Failed to export to CSV: [WinError 5] Access is denied: 'C:\\Users\\mumad\\Desktop\\Multi-Website E-commerce Scraper\\ecommerce_scraper\\data\\tmpwhgrr6kw.csv' -> 'data/products.csv'
+2026-03-10 15:29:19,827 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 15:29:23,911 - ecommerce_scraper - INFO - Scraped 80 products
+2026-03-10 15:29:23,949 - ecommerce_scraper - INFO - Data saved to database
+2026-03-10 15:29:23,951 - ecommerce_scraper - INFO - Elasticsearch disabled; skipping indexing
+2026-03-10 15:29:23,959 - ecommerce_scraper - ERROR - Failed to export to CSV: [WinError 5] Access is denied: 'C:\\Users\\mumad\\Desktop\\Multi-Website E-commerce Scraper\\ecommerce_scraper\\data\\tmpdy9jd5f0.csv' -> 'data/products.csv'
+2026-03-10 15:30:22,241 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 15:30:25,801 - ecommerce_scraper - INFO - Scraped 80 products
+2026-03-10 15:30:25,816 - ecommerce_scraper - INFO - Data saved to database
+2026-03-10 15:30:25,816 - ecommerce_scraper - INFO - Elasticsearch disabled; skipping indexing
+2026-03-10 15:30:25,816 - ecommerce_scraper - ERROR - Failed to export to CSV: [WinError 32] The process cannot access the file because it is being used by another process: 'data/products.csv'
+2026-03-10 15:34:37,468 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 15:34:41,602 - ecommerce_scraper - INFO - Scraped 80 products
+2026-03-10 15:34:41,641 - ecommerce_scraper - INFO - Data saved to database
+2026-03-10 15:34:41,641 - ecommerce_scraper - INFO - Elasticsearch disabled; skipping indexing
+2026-03-10 15:34:41,647 - ecommerce_scraper - WARNING - Could not remove existing CSV, it may be locked: data/products.csv
+2026-03-10 15:34:41,649 - ecommerce_scraper - ERROR - Failed to move temporary CSV into place: [WinError 5] Access is denied: 'C:\\Users\\mumad\\Desktop\\Multi-Website E-commerce Scraper\\ecommerce_scraper\\data\\tmpu9jbk4tx.csv' -> 'data/products.csv'
+2026-03-10 15:36:18,762 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 15:36:25,271 - ecommerce_scraper - INFO - Scraped 80 products
+2026-03-10 15:36:25,287 - ecommerce_scraper - INFO - Data saved to database
+2026-03-10 15:36:25,288 - ecommerce_scraper - INFO - Elasticsearch disabled; skipping indexing
+2026-03-10 15:36:25,293 - ecommerce_scraper - WARNING - Existing CSV locked; saved new file as data/products_20260310_100625.csv
+2026-03-10 15:38:06,357 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 15:38:10,679 - ecommerce_scraper - INFO - Scraped 80 products
+2026-03-10 15:38:10,709 - ecommerce_scraper - INFO - Data saved to database
+2026-03-10 15:38:10,709 - ecommerce_scraper - INFO - Elasticsearch disabled; skipping indexing
+2026-03-10 15:38:10,720 - ecommerce_scraper - WARNING - Existing CSV locked; saved new file as data/products_20260310_100810.csv
+2026-03-10 15:41:33,704 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 15:41:37,744 - ecommerce_scraper - INFO - Scraped 80 products
+2026-03-10 15:41:37,763 - ecommerce_scraper - INFO - Data saved to database
+2026-03-10 15:41:37,763 - ecommerce_scraper - INFO - Elasticsearch disabled; skipping indexing
+2026-03-10 15:41:37,767 - ecommerce_scraper - ERROR - Failed to export to CSV: name 'UTC' is not defined
+2026-03-10 15:44:18,475 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 15:44:22,739 - ecommerce_scraper - INFO - Scraped 80 products
+2026-03-10 15:44:22,769 - ecommerce_scraper - INFO - Data saved to database
+2026-03-10 15:44:22,770 - ecommerce_scraper - INFO - Elasticsearch disabled; skipping indexing
+2026-03-10 15:44:22,777 - ecommerce_scraper - WARNING - Existing CSV locked; saved new file as data/products_20260310_101422.csv
+2026-03-10 15:48:38,312 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 15:48:42,122 - ecommerce_scraper - INFO - Scraped 80 products
+2026-03-10 15:48:42,136 - ecommerce_scraper - INFO - Data saved to database
+2026-03-10 15:48:42,137 - ecommerce_scraper - INFO - Elasticsearch disabled; skipping indexing
+2026-03-10 15:48:42,141 - ecommerce_scraper - WARNING - Existing CSV locked; saved new file as data/products_20260310_101842.csv
+2026-03-10 15:50:59,830 - ecommerce_scraper - INFO - Scraping started
+2026-03-10 15:51:03,359 - ecommerce_scraper - INFO - Scraped 80 products
+2026-03-10 15:51:03,376 - ecommerce_scraper - INFO - Data saved to database
+2026-03-10 15:51:03,376 - ecommerce_scraper - INFO - Elasticsearch disabled; skipping indexing
+2026-03-10 15:51:04,385 - ecommerce_scraper - INFO - CSV exported to data/products_20260310_102104.csv
