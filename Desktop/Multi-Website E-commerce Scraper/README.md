@@ -1,1 +1,1 @@
-![Scraper Output](assets/output.png)
+![Scraper Output](Desktop/Multi-Website%20E-commerce%20Scraper/assets/output.png)
